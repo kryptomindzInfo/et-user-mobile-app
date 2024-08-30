@@ -1,0 +1,24 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#000000"
+  image: assets/images/etbanklogo.png
+  # color: "#ffffff"
+  # image: assets/splashlogo.png
+  # branding: assets/splashlogo.png FB5507
+  color_dark: "#000000"
+  image_dark: assets/images/etbanklogo.png
+  # color_dark: "#121212"
+  # image_dark: assets/splashlogo.png
+  # branding_dark: assets/splashlogo.png
+
+  android_12:
+    image: assets/images/etbanklogo.png
+    icon_background_color: "#000000"
+    # image: assets/splashlogo12.png
+    # icon_background_color: "#ffffff"
+    image_dark: assets/images/etbanklogo.png
+    icon_background_color_dark: "#000000"
+    # image_dark: assets/splashlogo12.png
+    # icon_background_color_dark: "#121212"
+
+  web: false
